@@ -1,0 +1,14 @@
+{
+  "name": "dev-jokes-api",
+  "version": "1.0.0",
+  "description": "An API that gives you developer jokes!",
+  "main": "server.js",
+  "scripts": {
+    "build": "nodemon ./server.js localhost 8080"
+  },
+  "author": "Larson Carter",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
