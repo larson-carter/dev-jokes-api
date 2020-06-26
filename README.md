@@ -10,6 +10,8 @@ This is an API that gives people joy it simply returns one developer joke on eve
 
 2. npm install
 
-3. npm run build
+3. npm install -g nodemon
 
-4. Now you are able to use the server!
+4. npm run build
+
+5. Now you are able to use the server!
